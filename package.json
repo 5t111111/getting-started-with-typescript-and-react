@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "./node_modules/.bin/webpack-dev-server"
   },
   "dependencies": {
     "@types/react": "^15.0.25",
